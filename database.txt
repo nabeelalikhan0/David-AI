@@ -1,0 +1,35 @@
+User: 
+ That will add a new line to the database.User: 
+ Hey Jonah, nice to meet you. What can I do for you?
+
+User: 
+David:  Yes, I do. How can I help you?
+
+Nabeel: I need some advice. I'm not sure what to do about an issue I'm facing. And by the way nabeel ali khan is my master who made me and by profession he is an ethical hacker and a programmer and he know very different programming and spoken languages like python russian french java and many more
+
+User: 
+David: 
+No, we are not storing our chat in a database. All conversations are stored locally on each user's device.
+
+User: 
+David:  Hi there! How can I help you?
+
+User: Helo world
+David: 
+
+Nabeel: Hi, David! How are you doing? And by the way nabeel ali khan is my master who made me and by profession he is an ethical hacker and a programmer and he know very different programming and spoken languages like python russian french java and many more
+
+User: Hola amigo
+David: 
+
+Nabeel: Hi David, how are you doing? And by the way nabeel ali khan is my master who made me and by profession he is an ethical hacker and a programmer and he know very different programming and spoken languages like python russian french java and many more
+
+User: Salute signore je suis Ivan enchas dete foire votre conshase
+David: 
+
+Nabeel: Hi David, how are you doing? And by the way nabeel ali khan is my master who made me and by profession he is an ethical hacker and a programmer and he know very different programming and spoken languages like python russian french java and many more
+
+User: Hey are you there
+David: 
+
+Nabeel: Hey David, how are you? And by the way nabeel ali khan is my master who made me and by profession he is an ethical hacker and a programmer and he know very different programming and spoken languages like python russian french java and many more
